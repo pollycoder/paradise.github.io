@@ -1,9 +1,9 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: Polly's Paradise
+description: If at first, the idea is not absurd, then there will be no hope for it.
 url: https://paradise.github.io
 avatar: /avatar.jpg
-paginate: 5
+paginate: 10
 permalink: pretty
 cover_image: /bg.jpg
 

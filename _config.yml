@@ -5,7 +5,7 @@ url: https://paradise.github.io
 avatar: /avatar.jpg
 paginate: 10
 permalink: pretty
-cover_image: /bg.jpg
+cover_image: /bg.JPG
 
 # Gems
 plugins:

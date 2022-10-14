@@ -2,10 +2,10 @@
 title: 御风者
 description: 在星空中驰骋，在飓风中飞翔。
 url: https://paradise.github.io
-avatar: /avatar.jpg
+avatar: https://raw.githubusercontent.com/pollycoder/blog_image/main/avatar/avatar7.jpg
 paginate: 10
 permalink: pretty
-cover_image: /bg.jpg
+cover_image: https://raw.githubusercontent.com/pollycoder/blog_image/main/sidebar/sidebar1.jpg
 
 # Gems
 plugins:
